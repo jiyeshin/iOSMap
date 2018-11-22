@@ -43,5 +43,10 @@
 	</array>
     <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
     <string>테스트 중입니다.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>테스트 중입니다.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>테스트 중입니다.</string>
+
 </dict>
 </plist>
